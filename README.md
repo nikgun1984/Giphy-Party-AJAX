@@ -6,3 +6,5 @@ This application does the following:
 - Once the Giphy API has responded with data, append the GIF to the page
 - Allow the user to search for as many GIFs as they would like and keep appending them to the page
 - Allow the user to remove all of the GIFs by clicking a button
+
+https://nikgun1984.github.io/Giphy-Party-AJAX/.
